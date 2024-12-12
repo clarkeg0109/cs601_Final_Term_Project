@@ -1,3 +1,18 @@
+This is my final term project for cs601.The project goal was to to create a personal page using the skill we learned in class.
+
+
+
+
+Video walktrough-https://youtu.be/NE6U2CjUKN4
+
+
+
+githubpage-deployment-https://clarkeg0109.github.io/gary_final/
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
