@@ -17,7 +17,7 @@ const ContactForm: React.FC = () => {
         e.preventDefault();
         setStatus('Sending...');
 
-        // Send form data to a server or API (replace with your backend endpoint)
+       
         try {
             const response = await fetch('https://formspree.io/f/your-form-id', {
                 method: 'POST',
